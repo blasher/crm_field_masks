@@ -31,6 +31,7 @@ class crm_field_mask
 
 		if( ($GLOBALS['_REQUEST']['module'] === 'ModuleBuilder' ) ||
 //			 ($GLOBALS['_REQUEST']['module'] === 'Emails' ) ||
+			 ($GLOBALS['_REQUEST']['action'] === 'DynamicAction' ) ||
 			 ($GLOBALS['_REQUEST']['action'] === 'ajaxui' ))
 		{}
 		else
