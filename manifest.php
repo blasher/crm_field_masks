@@ -56,7 +56,7 @@ $installdefs['copy'] = array(
 		'to' => 'custom/Extension/application/crm_field_masks/crm_field_masks.js',
 	) ,
 	3 => array(
-		'from' => '<basepath>/files/custom/Extension/application/crm_field_masks/crm_field_masks_css.php',
-		'to' => 'custom/Extension/application/crm_field_masks/crm_field_masks_css.php',
+		'from' => '<basepath>/files/custom/Extension/application/crm_field_masks/jquery.inputmask.bundle.min.js',
+		'to' => 'custom/Extension/application/crm_field_masks/jquery.inputmask.bundle.min.js',
 	) ,
 );
