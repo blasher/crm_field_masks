@@ -29,7 +29,7 @@ if (!isset($hook_array['after_ui_frame']) || !is_array($hook_array['after_ui_fra
     $hook_array['after_ui_frame'] = array();
 }
  
-$hook_array['after_ui_frame'][] = Array(1, 'CRM Field Mask', 'custom/Extension/application/crm_field_mask/crm_field_mask.php', 'crm_field_mask', 'load'); 
+$hook_array['after_ui_frame'][] = Array(1, 'CRM Field Masks', 'custom/Extension/application/crm_field_masks/crm_field_masks.php', 'crm_field_masks', 'load'); 
 
 
 

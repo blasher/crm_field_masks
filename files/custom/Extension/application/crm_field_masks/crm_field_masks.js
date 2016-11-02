@@ -1,28 +1,28 @@
-var crm_field_mask = new CRMFieldMask();
+var crm_field_masks = new CRMFieldMasks();
 
 $(document).ready(function(){
 	//	alert('here');
 
    // a way to check to make sure selector is working
-	crm_field_mask.selector_check();
-	crm_field_mask.run();
+	crm_field_masks.selector_check();
+	crm_field_masks.run();
 
 	//	alert('there');
 });
 
-function CRMFieldMask()
+function CRMFieldMasks()
 {
 	that        = this;
 	this.debug  = false;
 	this.cache  = [];
 
-	this.dependency = 'custom/Extension/application/crm_field_mask/jquery.inputmask.bundle.min.js';
+	this.dependency = 'custom/Extension/application/crm_field_masks/jquery.inputmask.bundle.min.js';
 
 	this.cache_and_log = function(name, value)
 	{
 		if(this.debug)
 		{	this.cache[name] = value;
-			console.log('CRMMASK - ' + name + ' = ' + value );
+			console.log('CRMMASKS - ' + name + ' = ' + value );
 		}
 	}
 
