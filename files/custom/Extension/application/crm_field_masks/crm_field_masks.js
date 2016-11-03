@@ -59,8 +59,8 @@ function CRMFieldMasks()
 	{
 		this.cache_and_log('apply_masks - begin', true );
 
-		$('input[name*="phone"]').inputmask({"mask": "(999) 999-9999"}); //specifying options
-		$('input[name*="fax"]').inputmask({"mask": "(999) 999-9999"}); //specifying options
+		$('input[name*="phone"]').inputmask({"mask": "(999) 999-9999 x999999"}); //specifying options
+		$('input[name*="fax"]').inputmask({"mask": "(999) 999-9999 x999999"}); //specifying options
 
 		this.cache_and_log('apply_masks - end', true );
 	}
