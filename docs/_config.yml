@@ -1,1 +1,8 @@
+title: crm_field_masks
+description: This is a simple plugin to automatically add masks to fields based on the field name. 
+google_analytics: 
+show_downloads: true
 theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
