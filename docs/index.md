@@ -1,5 +1,4 @@
-<section class="main-content">
-    <h3><a id="welcome-to-crm-field-masks" class="anchor" href="#welcome-to-crm-field-masks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to Crm Field Masks.</h3>
+<h3><a id="welcome-to-crm-field-masks" class="anchor" href="#welcome-to-crm-field-masks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to Crm Field Masks.</h3>
 
 <p>This is a simple plugin to automatically add masks to fields based on the field name.  For example, for all fields
 that contain the word phone, constrict the input to look like (###) ###-####.</p>
@@ -26,7 +25,4 @@ process is detailed below.
 <h3><a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
 
 <p>Having trouble? Contact me at <a href="mailto:me@brianlasher.com">me@brianlasher.com</a> and i will do my best to help you sort it out.</p>
-
-
-    </section>
 
