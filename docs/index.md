@@ -27,9 +27,6 @@ process is detailed below.
 
 <p>Having trouble? Contact me at <a href="mailto:me@brianlasher.com">me@brianlasher.com</a> and i will do my best to help you sort it out.</p>
 
-      <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/blasher/crm_field_masks">crm field masks</a> is maintained by <a href="https://github.com/blasher">blasher</a>.</span>
-      </footer>
 
     </section>
 
