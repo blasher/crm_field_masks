@@ -4,5 +4,9 @@ google_analytics:
 show_downloads: true
 theme: jekyll-theme-slate
 
+github:
+  zip_url: https://github.com/blasher/crm_field_masks/zipball/master
+  tar_url: https://github.com/blasher/crm_field_masks/tarball/master
+
 gems:
   - jekyll-mentions
